@@ -456,7 +456,7 @@ def multiples(n: int = 1000, a: int = 3, b: int = 5) -> int:
 > As you learn more programming languages, it can be interesting to observe how they often
 > provide similar functionality with different syntax.
 
-Once you complete these steps, you can copy the `MultiplesDefaultTest.java` file into the `test/lab1` directory
+Once you complete these steps, you can copy the `lab1.MultiplesDefaultTest.java` file into the `test/lab1` directory
 and run the tests in it to check your work — debugging as needed.
 
 - [ ] Use git to push your updated `Multiples.java` file to GitHub and run the self tests again on MarkUs.
