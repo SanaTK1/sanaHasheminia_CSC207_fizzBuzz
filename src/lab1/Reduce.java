@@ -5,7 +5,7 @@ public class Reduce {
         System.out.println(reduce(100));
     }
 
-    private static int reduce(int n) {
+    public static int reduce(int n) {
         int counter = 0;
         while (n > 0){
             if(n%2 == 0)
